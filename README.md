@@ -1,8 +1,8 @@
+[![DOI](https://zenodo.org/badge/881100567.svg)](https://doi.org/10.5281/zenodo.14165830)
+
 # Evaluation Artifacts for *"A Flexible Framework for Summarization and Error Detection of In-Vehicle Network Traces"*
 
 **Author:** Simon Hirner ([simon.hirner@student.uibk.ac.at](mailto:simon.hirner@student.uibk.ac.at))
-
-**DOI:** https://doi.org/[tbd]
 
 ## Summary of Artifacts
 
